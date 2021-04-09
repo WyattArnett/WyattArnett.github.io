@@ -1,5 +1,5 @@
 future: true
-name: Radek
+name: Wyatt 
 auto: false
 baseurl: /kontent-jekyll-blog
 sass:
@@ -39,7 +39,7 @@ kentico:
       layout: page
     author:
       layout: author
-      title: name
+      title: wildlaban
       collection: authors
   taxonomies:
    - content
